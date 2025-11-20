@@ -13,20 +13,11 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the repository
 git clone https://github.com/PrabhjotKaur-Developer/flutter_user_explorer_task.git
 
-shell
-Copy code
-
 ### 2️⃣ Navigate into the project folder
 cd flutter_user_explorer_task
 
-shell
-Copy code
-
 ### 3️⃣ Install Flutter dependencies
 flutter pub get
-
-shell
-Copy code
 
 ### 4️⃣ Run the application
 flutter run
@@ -44,7 +35,6 @@ The project follows a **clean, modular and scalable architecture**.
 /services → API calls, fetching users and user details
 /screens → UI screens (User List, User Detail)
 /widgets → Reusable UI components
-
 
 ### 🔹 **State Management**
 - **GetX** for reactive state management  
