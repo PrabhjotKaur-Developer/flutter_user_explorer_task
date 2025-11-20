@@ -31,9 +31,6 @@ Copy code
 ### 4️⃣ Run the application
 flutter run
 
-yaml
-Copy code
-
 ---
 
 ## 🏗 Architecture Overview
@@ -48,8 +45,6 @@ The project follows a **clean, modular and scalable architecture**.
 /screens → UI screens (User List, User Detail)
 /widgets → Reusable UI components
 
-yaml
-Copy code
 
 ### 🔹 **State Management**
 - **GetX** for reactive state management  
@@ -85,9 +80,6 @@ Copy code
 The project includes **clean & meaningful commit messages**, such as:
 
 initial commit: submit completed User Explorer task project
-
-yaml
-Copy code
 
 ---
 
